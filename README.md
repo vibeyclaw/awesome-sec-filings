@@ -31,6 +31,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Docoh](https://docoh.com/) - SEC filings with AI-powered analysis and company insights.
 - [Bamsec](https://www.bamsec.com/) - Fast, clean SEC filing viewer.
 - [OpenInsider](http://openinsider.com/) - Real-time insider trading data from SEC Form 4 filings.
+- [TradeInsight.info](https://tradeinsight.info) - Timely notification service for SEC Form 4 filling + Politician Trade Insight.
 
 ## Libraries & Tools
 
