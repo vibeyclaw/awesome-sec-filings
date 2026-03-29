@@ -82,6 +82,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [r/SecurityAnalysis](https://www.reddit.com/r/SecurityAnalysis/) - Reddit community for fundamental analysis and SEC filing discussion.
 - [r/investing](https://www.reddit.com/r/investing/) - General investing discussion.
 - [Quantocracy](https://quantocracy.com/) - Aggregator for quantitative finance blog posts.
+- [KeepRule](https://keeprule.com) - Free investment principles knowledge base with 500+ rules from Buffett, Munger, Graham and more, organized by investing scenarios.
 
 ## Contributing
 
