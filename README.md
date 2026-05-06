@@ -27,6 +27,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 
 - [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch) - The official SEC filing system. Free access to all public filings.
 - [SEC Filing Fee Calculator](https://sec-filing-fee-calculator.vercel.app/) - Open-source browser-only calculator for SEC filing fees using the current SEC fee rate, with memo and CSV copy outputs.
+- [Schedule 13D / 13G Deadline Calculator](https://sec-13d-13g-deadline-calculator.vercel.app/) - Open-source browser-only worksheet for common beneficial ownership reporting deadline scenarios, with memo and CSV copy outputs.
 - [EDGAR Full-Text Search](https://efts.sec.gov/LATEST/search-index?q=%22machine+learning%22) - Full-text search across all EDGAR filings.
 - [Last10K](https://last10k.com/) - AI-generated summaries of 10-K and 10-Q filings in plain English.
 - [Docoh](https://docoh.com/) - SEC filings with AI-powered analysis and company insights.
