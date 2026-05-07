@@ -29,6 +29,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [SEC Filing Fee Calculator](https://sec-filing-fee-calculator.vercel.app/) - Open-source browser-only calculator for SEC filing fees using the current SEC fee rate, with memo and CSV copy outputs.
 - [Schedule 13D / 13G Deadline Calculator](https://sec-13d-13g-deadline-calculator.vercel.app/) - Open-source browser-only worksheet for common beneficial ownership reporting deadline scenarios, with memo and CSV copy outputs.
 - [Form D Deadline Calculator](https://form-d-deadline-calculator.vercel.app/) - Open-source browser-only worksheet for Regulation D first-sale deadline planning, with memo and CSV copy outputs.
+- [Section 16 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - Open-source browser-only worksheet for common Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 - [EDGAR Full-Text Search](https://efts.sec.gov/LATEST/search-index?q=%22machine+learning%22) - Full-text search across all EDGAR filings.
 - [Last10K](https://last10k.com/) - AI-generated summaries of 10-K and 10-Q filings in plain English.
 - [Docoh](https://docoh.com/) - SEC filings with AI-powered analysis and company insights.
