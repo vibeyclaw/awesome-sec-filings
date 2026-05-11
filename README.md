@@ -50,6 +50,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [SEC-Edgar-Downloader](https://github.com/jadchaar/sec-edgar-downloader) - Download SEC filings from EDGAR by ticker or CIK.
 - [py-sec-edgar](https://github.com/ryansmccoy/py-sec-edgar) - Tools for working with SEC EDGAR data in Python.
 - [secedgar](https://github.com/sec-edgar/sec-edgar) - SEC EDGAR filings downloader and parser.
+- [filing-firehose](https://github.com/jaablon/filingfirehose-python) - Python client for FilingFirehose. Body-text-classified 8-Ks, activist-tagged 13Ds, ATM detection. Free 72h tier.
 
 ### R
 
@@ -70,6 +71,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [SEC-API.io](https://sec-api.io/) - Commercial API for real-time SEC filing search, download, and XBRL-to-JSON conversion.
 - [Financial Modeling Prep](https://financialmodelingprep.com/) - SEC filings, financial statements, and institutional holdings API.
 - [Polygon.io](https://polygon.io/) - Market data API with SEC filings and reference data.
+- [FilingFirehose](https://filingfirehose.com) - Body-text-classified 8-Ks (flags items the filer didn't report — 7.3% of Item 8.01 filings have buried 1.05/5.02/etc.), Schedule 13D/G with 21+ activist filers auto-tagged, S-3/424B5 with ATM offering detection. REST + MCP server + ChatGPT GPT + Python SDK + GitHub Action. Free public tier covers past 72h, no API key. Paid tier from \$29/mo.
 
 ## Datasets
 
