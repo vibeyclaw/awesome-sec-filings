@@ -31,6 +31,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Form D Deadline Calculator](https://form-d-deadline-calculator.vercel.app/) - Open-source browser-only worksheet for Regulation D first-sale deadline planning, with memo and CSV copy outputs.
 - [Section 16 / Form 4 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - Open-source browser-only worksheet for Forms 3, 4, and 5 ownership-reporting deadline planning, with Form 4 two-business-day notes plus memo, CSV, and ICS outputs.
 - [EDGAR Full-Text Search](https://efts.sec.gov/LATEST/search-index?q=%22machine+learning%22) - Full-text search across all EDGAR filings.
+- [Finterm](https://finterm.xyz/sec-filings) - Free browser-based SEC EDGAR viewer for 10-K, 10-Q, 8-K and DEF 14A filings, with quarterly revenue, net income, EPS and free cash flow derived from us-gaap companyfacts. No account required.
 - [Last10K](https://last10k.com/) - AI-generated summaries of 10-K and 10-Q filings in plain English.
 - [Docoh](https://docoh.com/) - SEC filings with AI-powered analysis and company insights.
 - [Bamsec](https://www.bamsec.com/) - Fast, clean SEC filing viewer.
