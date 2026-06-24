@@ -46,6 +46,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 
 - [edgartools](https://github.com/dgunning/edgartools) - A Python library for navigating SEC EDGAR with a clean, Pythonic interface. Supports all filing types.
 - [sec-parser](https://github.com/alphanome-ai/sec-parser) - A robust SEC EDGAR filing parser for extracting structured data from 10-Q, 10-K filings.
+- [disclosure-alpha](https://github.com/alwank/disclosure-alpha) - Deterministic SEC filing analytics for 10-K/10-Q: section extraction, tone and boilerplate metrics, year-over-year diff, and reproducible disclosure risk scores. CLI, Python SDK, HTTP panel screener, and MCP — no LLM required.
 - [python-edgar](https://github.com/edouardswiac/python-edgar) - Download the SEC EDGAR company filing index and parse XBRL data.
 - [sec-api](https://github.com/sec-api/sec-api-python) - Python client for SEC-API.io to query and download SEC filings.
 - [SEC-Edgar-Downloader](https://github.com/jadchaar/sec-edgar-downloader) - Download SEC filings from EDGAR by ticker or CIK.
