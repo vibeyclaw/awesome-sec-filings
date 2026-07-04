@@ -18,10 +18,11 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 ### 13F / Institutional Holdings
 
 - [13F Insight](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries.
-- [WhaleWisdom](https://whalewisdom.com/) - 13F filing tracker with historical data, top holders, and portfolio analytics.
 - [Fintel](https://fintel.io/) - Institutional ownership data, insider trading, short interest, and 13F filings.
-- [Whaletrace](https://www.whaletrace.com/) - Visual 13F filing tracker for following hedge fund portfolios.
 - [HoldingsChannel](https://www.holdingschannel.com/) - Top institutional holders and 13F analysis.
+- [PortfolioSavvy](https://portfoliosavvy.com/) - Public SEC ownership research pages for 13F holders, CUSIP ownership history, insider activity, and 13D/G filings.
+- [Whaletrace](https://www.whaletrace.com/) - Visual 13F filing tracker for following hedge fund portfolios.
+- [WhaleWisdom](https://whalewisdom.com/) - 13F filing tracker with historical data, top holders, and portfolio analytics.
 
 ### General SEC Filings
 
