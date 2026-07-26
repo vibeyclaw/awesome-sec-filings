@@ -39,6 +39,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Insider Alerts](https://insideralerts.io/) - SEC Form 4 insider buying and selling alerts with watchlists, searchable filings, and Telegram notifications.
 - [TradeInsight.info](https://tradeinsight.info) - Timely notification service for SEC Form 4 filing + Politician Trade Insight.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tool that scores every U.S. congressional STOCK Act trade disclosure for signal strength. Real-time politician trade data with free tier.
+- [Tickwind](https://www.tickwind.com) - Free stock research site built on EDGAR: 10-year XBRL fundamentals, section-level 10-K/10-Q filing diffs, Form 4 insider activity with 10b5-1 flags, 13F superinvestor portfolios, N-PORT ETF holdings, and 8-K material-event feeds. No account required for research pages.
 
 ## Libraries & Tools
 
