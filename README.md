@@ -18,6 +18,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 ### 13F / Institutional Holdings
 
 - [13F Insight](https://13finsight.com/) - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries.
+- [Filings Flow](https://filingsflow.com/) - 13F holdings browser covering 11,700+ institutional managers from 2019 onward, with quarter-over-quarter position changes, confidential-treatment reveals badged, links to the source document on EDGAR for every filing, and Excel export on every table. No account required.
 - [WhaleWisdom](https://whalewisdom.com/) - 13F filing tracker with historical data, top holders, and portfolio analytics.
 - [Fintel](https://fintel.io/) - Institutional ownership data, insider trading, short interest, and 13F filings.
 - [Whaletrace](https://www.whaletrace.com/) - Visual 13F filing tracker for following hedge fund portfolios.
