@@ -39,6 +39,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Insider Alerts](https://insideralerts.io/) - SEC Form 4 insider buying and selling alerts with watchlists, searchable filings, and Telegram notifications.
 - [TradeInsight.info](https://tradeinsight.info) - Timely notification service for SEC Form 4 filing + Politician Trade Insight.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tool that scores every U.S. congressional STOCK Act trade disclosure for signal strength. Real-time politician trade data with free tier.
+- [QuantLink](https://www.quantlink.ai) - AI equity research terminal for US stocks with deep-research agents grounded in SEC filings, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking from STOCK Act disclosures. Free tier available.
 
 ## Libraries & Tools
 
