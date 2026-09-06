@@ -79,6 +79,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 ## Datasets
 
 - [bigtech-ai-stakes](https://github.com/YichengYang-Ethan/bigtech-ai-stakes) - Public-company equity stakes in Anthropic and OpenAI tracked from primary 10-K / 10-Q / 8-K filings, court records, and press releases. Each row tagged with a confidence flag (V / P / S).
+- [S&P 500 Earnings Announcement Times](https://github.com/quant500trading/sp500-earnings-announcement-times) - 63,969 earnings announcements from 808 S&P 500 companies, 2003-2026, with the time of day, built from 8-K item 2.02 filings. Every row carries its accession number and a direct link to sec.gov. CC0, no account or API key.
 - [SEC EDGAR Full Index](https://www.sec.gov/Archives/edgar/full-index/) - Complete EDGAR filing index, updated quarterly.
 - [SEC Financial Statement Datasets](https://www.sec.gov/dera/data/financial-statement-data-sets) - Structured financial statement data extracted from XBRL filings.
 - [SEC 13F Data (Kaggle)](https://www.kaggle.com/datasets/loisjones/13f-data) - Historical 13F filing data on Kaggle.
