@@ -34,6 +34,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Finterm](https://finterm.xyz/sec-filings) - Free browser-based SEC EDGAR viewer for 10-K, 10-Q, 8-K and DEF 14A filings, with quarterly revenue, net income, EPS and free cash flow derived from us-gaap companyfacts. No account required.
 - [Last10K](https://last10k.com/) - AI-generated summaries of 10-K and 10-Q filings in plain English.
 - [Docoh](https://docoh.com/) - SEC filings with AI-powered analysis and company insights.
+- [DUEL](https://duelstocks.com) - Free head-to-head comparison of two US-listed stocks on 8 fundamentals computed directly from SEC EDGAR 10-K/10-Q filings. Base algorithm is open source.
 - [Bamsec](https://www.bamsec.com/) - Fast, clean SEC filing viewer.
 - [OpenInsider](http://openinsider.com/) - Real-time insider trading data from SEC Form 4 filings.
 - [Insider Alerts](https://insideralerts.io/) - SEC Form 4 insider buying and selling alerts with watchlists, searchable filings, and Telegram notifications.
