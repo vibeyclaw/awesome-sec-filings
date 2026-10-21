@@ -35,6 +35,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Last10K](https://last10k.com/) - AI-generated summaries of 10-K and 10-Q filings in plain English.
 - [Docoh](https://docoh.com/) - SEC filings with AI-powered analysis and company insights.
 - [Bamsec](https://www.bamsec.com/) - Fast, clean SEC filing viewer.
+- [Ryufin](https://ryufin.com/) - Free stock research built from 10-K, 10-Q and 8-K filings for about 3,100 US companies, with every statement figure linked to its filing and the customers named in each 10-K. No account required.
 - [OpenInsider](http://openinsider.com/) - Real-time insider trading data from SEC Form 4 filings.
 - [Insider Alerts](https://insideralerts.io/) - SEC Form 4 insider buying and selling alerts with watchlists, searchable filings, and Telegram notifications.
 - [TradeInsight.info](https://tradeinsight.info) - Timely notification service for SEC Form 4 filing + Politician Trade Insight.
