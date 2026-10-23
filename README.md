@@ -33,6 +33,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [EDGAR Full-Text Search](https://efts.sec.gov/LATEST/search-index?q=%22machine+learning%22) - Full-text search across all EDGAR filings.
 - [Finterm](https://finterm.xyz/sec-filings) - Free browser-based SEC EDGAR viewer for 10-K, 10-Q, 8-K and DEF 14A filings, with quarterly revenue, net income, EPS and free cash flow derived from us-gaap companyfacts. No account required.
 - [Last10K](https://last10k.com/) - AI-generated summaries of 10-K and 10-Q filings in plain English.
+- [Mode VC Research](https://modevc.com/research/daily) - Daily SEC Form D new raises joined to named partners at 3,650 investor firms, plus Form ADV fund data. Free on the web and through a public MCP server.
 - [Docoh](https://docoh.com/) - SEC filings with AI-powered analysis and company insights.
 - [Bamsec](https://www.bamsec.com/) - Fast, clean SEC filing viewer.
 - [OpenInsider](http://openinsider.com/) - Real-time insider trading data from SEC Form 4 filings.
