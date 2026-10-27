@@ -22,6 +22,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Fintel](https://fintel.io/) - Institutional ownership data, insider trading, short interest, and 13F filings.
 - [Whaletrace](https://www.whaletrace.com/) - Visual 13F filing tracker for following hedge fund portfolios.
 - [HoldingsChannel](https://www.holdingschannel.com/) - Top institutional holders and 13F analysis.
+- [SPZCO](https://spzco.com) - 13F portfolios by investment manager and holder lists by stock, beside congressional STOCK Act and executive-branch OGE trade disclosures, each with a link to the source filing.
 
 ### General SEC Filings
 
