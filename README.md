@@ -22,6 +22,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Fintel](https://fintel.io/) - Institutional ownership data, insider trading, short interest, and 13F filings.
 - [Whaletrace](https://www.whaletrace.com/) - Visual 13F filing tracker for following hedge fund portfolios.
 - [HoldingsChannel](https://www.holdingschannel.com/) - Top institutional holders and 13F analysis.
+- [Talval](https://talval.com/superinvestors) - Free 13F tracker for 50 value and activist superinvestors that adds a fair-value estimate and verdict to each holding it covers; no account needed.
 
 ### General SEC Filings
 
