@@ -49,6 +49,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [disclosure-alpha](https://github.com/alwank/disclosure-alpha) - Deterministic SEC filing analytics for 10-K/10-Q: section extraction, tone and boilerplate metrics, year-over-year diff, and reproducible disclosure risk scores. CLI, Python SDK, HTTP panel screener, and MCP — no LLM required.
 - [python-edgar](https://github.com/edouardswiac/python-edgar) - Download the SEC EDGAR company filing index and parse XBRL data.
 - [sec-api](https://github.com/sec-api/sec-api-python) - Python client for SEC-API.io to query and download SEC filings.
+- [sec-form-d-funding-signals](https://github.com/paopao-studio-ai/sec-form-d-funding-signals) - Python/Apify tool that parses SEC Form D private-offering filings from EDGAR into rows (amount sold, industry, state, related persons) with optional change tracking and signal score. Hosted run: [Apify Actor](https://apify.com/goldenrod_serrano/sec-form-d-funding-signals) ($0.008/filing; empty input returns a free sample).
 - [SEC-Edgar-Downloader](https://github.com/jadchaar/sec-edgar-downloader) - Download SEC filings from EDGAR by ticker or CIK.
 - [py-sec-edgar](https://github.com/ryansmccoy/py-sec-edgar) - Tools for working with SEC EDGAR data in Python.
 - [secedgar](https://github.com/sec-edgar/sec-edgar) - SEC EDGAR filings downloader and parser.
