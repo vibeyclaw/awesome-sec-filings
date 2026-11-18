@@ -37,6 +37,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Bamsec](https://www.bamsec.com/) - Fast, clean SEC filing viewer.
 - [OpenInsider](http://openinsider.com/) - Real-time insider trading data from SEC Form 4 filings.
 - [Insider Alerts](https://insideralerts.io/) - SEC Form 4 insider buying and selling alerts with watchlists, searchable filings, and Telegram notifications.
+- [InsiderAction](https://insideraction.io/) - Free SEC Form 4 insider trade database that scores insiders on their past trades, adds cluster purchases, and shows GICS-style sector and industry totals and multi-month buying streaks. No account required.
 - [TradeInsight.info](https://tradeinsight.info) - Timely notification service for SEC Form 4 filing + Politician Trade Insight.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tool that scores every U.S. congressional STOCK Act trade disclosure for signal strength. Real-time politician trade data with free tier.
 
