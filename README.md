@@ -53,6 +53,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [py-sec-edgar](https://github.com/ryansmccoy/py-sec-edgar) - Tools for working with SEC EDGAR data in Python.
 - [secedgar](https://github.com/sec-edgar/sec-edgar) - SEC EDGAR filings downloader and parser.
 - [filing-firehose](https://github.com/jaablon/filingfirehose-python) - Python client for FilingFirehose. Body-text-classified 8-Ks, activist-tagged 13Ds, ATM detection. Free 72h tier.
+- [tracemodel](https://github.com/datayoga-io/tracemodel) - Build checked financial models from 10-K and 10-Q figures. Each number keeps its filing page as source, and checks find totals that do not tie.
 
 ### R
 
