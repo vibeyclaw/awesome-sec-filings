@@ -75,6 +75,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Polygon.io](https://polygon.io/) - Market data API with SEC filings and reference data.
 - [FilingFirehose](https://filingfirehose.com) - Body-text-classified 8-Ks (flags items the filer didn't report — 7.3% of Item 8.01 filings have buried 1.05/5.02/etc.), Schedule 13D/G with 21+ activist filers auto-tagged, S-3/424B5 with ATM offering detection. REST + MCP server + ChatGPT GPT + Python SDK + GitHub Action. Free public tier covers past 72h, no API key. Paid tier from \$29/mo.
 - [EDGAR Events](https://edgarevents.com) - Commercial REST API and webhooks delivering SEC filings as structured JSON: 8-K material items (including Item 1.05 cybersecurity), Schedule 13D/G activist and passive stakes, and merger forms (425, DEFM14A). Self-serve signup, OpenAPI docs, paid tier from $29/mo.
+- [SEC Form 4 Insider Trades (Apify Actor)](https://apify.com/il-open-data/sec-insider-trades) - Turns SEC Form 4 filings from EDGAR into a flat table of insider buys and sells (ticker, insider, role, transaction code, shares, price, value, 10b5-1 flag, filing URL) plus a per-company net buy/sell summary. Filter by tickers, days back, transaction code and minimum value. Pay per result ($1 per 1,000 rows); runs within Apify's free monthly credit.
 
 ## Datasets
 
