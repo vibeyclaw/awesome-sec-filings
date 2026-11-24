@@ -22,6 +22,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Fintel](https://fintel.io/) - Institutional ownership data, insider trading, short interest, and 13F filings.
 - [Whaletrace](https://www.whaletrace.com/) - Visual 13F filing tracker for following hedge fund portfolios.
 - [HoldingsChannel](https://www.holdingschannel.com/) - Top institutional holders and 13F analysis.
+- [RetailVest](https://www.retailvest.com/stocks) - Free 13F tracker for about 250 well-known investors (holdings, quarterly moves, consensus) with 13D/13G stakes and Form 4 insider trades; every figure links to its SEC filing.
 
 ### General SEC Filings
 
@@ -75,6 +76,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Polygon.io](https://polygon.io/) - Market data API with SEC filings and reference data.
 - [FilingFirehose](https://filingfirehose.com) - Body-text-classified 8-Ks (flags items the filer didn't report — 7.3% of Item 8.01 filings have buried 1.05/5.02/etc.), Schedule 13D/G with 21+ activist filers auto-tagged, S-3/424B5 with ATM offering detection. REST + MCP server + ChatGPT GPT + Python SDK + GitHub Action. Free public tier covers past 72h, no API key. Paid tier from \$29/mo.
 - [EDGAR Events](https://edgarevents.com) - Commercial REST API and webhooks delivering SEC filings as structured JSON: 8-K material items (including Item 1.05 cybersecurity), Schedule 13D/G activist and passive stakes, and merger forms (425, DEFM14A). Self-serve signup, OpenAPI docs, paid tier from $29/mo.
+- [RetailVest API and MCP server](https://www.retailvest.com/developers) - REST API and remote MCP server (OAuth) for 13F holdings and moves, 13D/13G stakes, Form 4 insider trades and CFTC futures positioning, usable from Claude and ChatGPT. Free tier.
 
 ## Datasets
 
