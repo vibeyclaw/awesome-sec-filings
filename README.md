@@ -39,6 +39,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Insider Alerts](https://insideralerts.io/) - SEC Form 4 insider buying and selling alerts with watchlists, searchable filings, and Telegram notifications.
 - [TradeInsight.info](https://tradeinsight.info) - Timely notification service for SEC Form 4 filing + Politician Trade Insight.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tool that scores every U.S. congressional STOCK Act trade disclosure for signal strength. Real-time politician trade data with free tier.
+- [WeightedShares](https://weightedshares.com) - Free, no-login SEC EDGAR XBRL radar comparing U.S. stock buybacks vs. stock-based compensation (SBC), RSU tax withholdings, True FCF (FCF − SBC), Form 4 insider selling, and 13F superinvestor portfolio dilution across 10,400+ companies, with direct filing traces and a public read-only MCP endpoint.
 
 ## Libraries & Tools
 
