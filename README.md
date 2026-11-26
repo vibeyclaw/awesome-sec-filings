@@ -39,6 +39,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 - [Insider Alerts](https://insideralerts.io/) - SEC Form 4 insider buying and selling alerts with watchlists, searchable filings, and Telegram notifications.
 - [TradeInsight.info](https://tradeinsight.info) - Timely notification service for SEC Form 4 filing + Politician Trade Insight.
 - [Congressional Stock Brain](https://congressionalstockbrain.com) - AI-powered tool that scores every U.S. congressional STOCK Act trade disclosure for signal strength. Real-time politician trade data with free tier.
+- [Cavalry](https://cavalryterminal.com/) - Free public tables of the week's largest insider purchases, cluster buys, Form 144 proposed sales, new 13D stakes, 13F filings, 8-K items, equity financings and SEC trading suspension orders, each row linked to the source filing. Paid plan for full history and an MCP server.
 
 ## Libraries & Tools
 
